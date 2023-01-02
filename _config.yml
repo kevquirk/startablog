@@ -3,7 +3,7 @@ url: "https://startafuckingblog.com" # the base hostname & protocol for your sit
 github_username:  kevquirk
 
 permalink: :title
-title: Start A Fucking Blog
+title: Start a Fucking Blog
 
 # Build settings
 plugins:
