@@ -1,0 +1,25 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://startafuckingblog.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  kevquirk
+
+permalink: :title
+title: Start A Fucking Blog
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+
+# Default front matter
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: assets/images/feature.webp
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /:title/

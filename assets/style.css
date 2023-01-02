@@ -1,0 +1,40 @@
+.large {
+  font-size: 1.6rem;
+  margin: 2rem 0;
+  line-height: 1.3;
+}
+
+.post-link {
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.meta {
+  color: var(--text-light);
+  font-size: 1rem;
+}
+
+.blog-item {
+  margin-bottom: 4rem;
+}
+
+nav a.current {
+  color: var(--accent) !important;
+  border-color: var(--accent) !important;
+}
+
+img+em,
+figcaption {
+  font-size: 0.8rem;
+  font-style: normal;
+  text-align: center;
+  display: block;
+}
+
+.notice {
+  background: var(--accent-bg);
+  border: 2px solid var(--border);
+  border-radius: 5px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+}
