@@ -47,7 +47,7 @@ Why the fuck are you still using Twitter? It's not even Twitter anymore, it's fu
 
 Then, edit your fucking "X" profile to say something like...
 
-> Fuck Twitter and the X. I'm on fucking Mastodon instead. 
+> Fuck Twitter and the "X". I'm on fucking Mastodon instead. 
 
 ## This is fucking satire
 
