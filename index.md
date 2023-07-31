@@ -43,9 +43,9 @@ Congratulations, you're a fucking blogger. Now get the fuck out of here and star
 
 ## Finally, fuck Twitter
 
-Why the fuck are you still using Twitter? It's not even Twitter anymore. Once you've started your fucking blog, get over to [Join Mastodon](https://joinmastodon.org) and sign up for that instead.
+Why the fuck are you still using Twitter? It's not even Twitter anymore, it's fucking "X". Once you've started your fucking blog, get over to [Join Mastodon](https://joinmastodon.org) and sign up for that instead.
 
-Then, edit your fucking Twitter profile to say something like...
+Then, edit your fucking "X" profile to say something like...
 
 > Fuck Twitter and the X. I'm on fucking Mastodon instead. 
 
